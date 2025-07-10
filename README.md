@@ -30,7 +30,7 @@ A modern, responsive React Weather App that displays real-time weather informati
 
 ```bash
 # Clone the repository
-git clone https://github.com/Tanmay9623/weather-now-react.git
+ https://github.com/Tanmay9623/weather-now-react.git
 
 # Navigate to the project directory
 cd weather-now-react
